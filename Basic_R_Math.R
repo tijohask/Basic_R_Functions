@@ -20,7 +20,7 @@ ceiling(5/4) # 2
 floor(7/4) # 1
 floor(5/4) # 1
 
-j
+
 # 7 / 4 is 1 with a remainder of 3
 
 # division without remainder
